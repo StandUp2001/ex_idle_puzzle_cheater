@@ -1,0 +1,8 @@
+{
+  "name": "arrow_puzzle",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
